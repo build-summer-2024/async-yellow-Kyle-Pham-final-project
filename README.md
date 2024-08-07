@@ -14,11 +14,11 @@
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: How has the win-loss percetange of each team changed over the 21 seasons?
+- [ ] Question 1: How has the win-loss percetange of each team changed over from the 2021 to 2023 seasons?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
 
-- [ ] Question 2: Which teams have shown the most improvement in their win-loss percentage from 2003 to 2023?
+- [ ] Question 2: Which teams have shown the most improvement in their win-loss percentage from 2021 to 2023?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
