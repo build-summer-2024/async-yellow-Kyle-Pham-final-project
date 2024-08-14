@@ -40,7 +40,7 @@ I chose the NFL stats dataset from 2003-2023 to explore how the game has changed
   - Visualization: ![Q6 Visualization](./pictures/q6.png)
 
 - [x] Question 7: Which 5 teams had the worst winning percentage in 2022?
-  - Answer: Now, instead of looking at the 23' season, lets take a look at the 22' season. Ranking in at #1 Chicago Bears (18%), following in #2 Houston Texans (20.5), #3 Arizona Cardinals (23.7%), #4 Indianapolis Colts (26.1%), and lastly %5 Denver Broncos (28.7%). In this graph you can see the upward trend from the worst NFL team in 2022 ranking from #1 to #5. 
+  - Answer: Now, instead of looking at the 23' season, lets take a look at the 22' season. Ranking in at #1 Chicago Bears (18%), following in #2 Houston Texans (20.5), #3 Arizona Cardinals (23.7%), #4 Indianapolis Colts (26.1%), and lastly #5 Denver Broncos (28.7%). In this graph you can see the upward trend from the worst NFL team in 2022 ranking from #1 to #5. 
   - Visualization: ![Q7 Visualization](./pictures/q7.png)
 
 - [x] Question 8: Who are the Top 5 teams with the highest pass completion rate in 2023?
