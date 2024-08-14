@@ -33,7 +33,7 @@ I chose the NFL stats dataset from 2003-2023 to explore how the game has changed
 
 - [x] Question 5: Which 5 teams had the most points scored on them (worst defense) 2023?
   - Answer: The top 5 worst defenses that had the allowed the most points scored in 2023 were #1 Washington Commanders over 500, #2 Arizona Cardinals between 400-500, #3 Philadelphia Eagles around 420, #4 Carolina Panthers and #5 Indianapolis Colts with roughly the same of around 410. 
-  - Visualization: ![Q5 Visualization](pictures\q5.png)
+  - Visualization: ![Q5 Visualization](./pictures/q5.png)
 
 - [x] Question 6: Who were the 5 teams to have the highest winning percentage in 2023?
   - Answer: Ranking in at #1 Baltimore Ravens (78%), following in #2 Dallas Cowboys (70.3%), #3 Detroit Lions (70.2%), #4 San Francisco 49ers (70.2%), and lastly #5 Buffalo Bills (64%). It seems to be that from the #2 to #4 rankings they are quite close however the Cowboys is still ranked aboved Lions and 49ers.
