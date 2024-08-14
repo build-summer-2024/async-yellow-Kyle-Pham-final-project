@@ -28,8 +28,8 @@ I chose the NFL stats dataset from 2003-2023 to explore how the game has changed
   - Visualization: ![Q3 Visualization](./pictures/q3.png)
 
 - [x] Question 4: Who is the top 5 teams that had the most penalties over the years? (2003-2023)
-  - Answer: The number #1 spot goes Arizona Cardinals with over 2310, #2 Baltimore Ravens shying just over 2270, #3 Tampa Bay Bucaneers right under 2270, #4 Dallas Cowboys in between 2250-2260, and lastly #5 Detriot Lions a little over 2240.
-  - Visualization: ![Q4 Visualization](./pictures/q4.png)
+  - Answer: The number #1 spot goes to Arizona Cardinals with over 2310 penalty yards, #2 Baltimore Ravens shying just over 2270, #3 Tampa Bay Bucaneers right under 2270, #4 Dallas Cowboys in between 2250-2260, and lastly #5 Detriot Lions a little over 2240.
+  - Visualization: ![Q4 Visualization](./pictures to/q4.png)
 
 - [x] Question 5: Which 5 teams had the most points scored on them (worst defense) 2023?
   - Answer: The top 5 worst defenses that had the allowed the most points scored in 2023 were #1 Washington Commanders over 500, #2 Arizona Cardinals between 400-500, #3 Philadelphia Eagles around 420, #4 Carolina Panthers and #5 Indianapolis Colts with roughly the same of around 410. 
