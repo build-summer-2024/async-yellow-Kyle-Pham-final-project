@@ -52,5 +52,5 @@ I chose the NFL stats dataset from 2003-2023 to explore how the game has changed
   - Visualization: ![Q9 Visualization](./pictures/q9.png)
 
 - [x] Question 10: What are the total yards gained from the top 5 teams in the NFL 2023?
-  - Answer: Now taking a look at the Highest Total Yards in 2023, the top 5 NFL teams were: #1 Miami Dolphins (6800yds), #2 San Francisco 49ers (6700yds), #3 Detriot Lions (6600yds), #4 Buffalo Bills (6400yds), and #5 Dallas Cowboys (6350yds). The top 3 three teams were quite close to another, considering the fact the Dolphins had two of the fastest wide receivers yet 49ers kept up with their offensive stars, aswell as the Lions. 
+  - Answer: Now taking a look at the Highest Total Yards in 2023, the top 5 NFL teams were: #1 Miami Dolphins (6800yds), #2 San Francisco 49ers (6700yds), #3 Detroit Lions (6600yds), #4 Buffalo Bills (6400yds), and #5 Dallas Cowboys (6350yds). The top 3 three teams were quite close to another, considering the fact the Dolphins had two of the fastest wide receivers yet 49ers kept up with their offensive stars, aswell as the Lions. 
   - Visualization: ![Q10 Visualization](./pictures/q10.png)
